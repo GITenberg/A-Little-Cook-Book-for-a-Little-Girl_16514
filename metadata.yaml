@@ -1,0 +1,26 @@
+_repo: A-Little-Cook-Book-for-a-Little-Girl_16514
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benton, Caroline French
+    alias: Burrell, Caroline Frances Benedict
+    gutenberg_agent_id: '6759'
+    url: http://www.gutenberg.org/2009/agents/6759
+description: The things Margaret made for breakfast -- The things she made for luncheon
+  or supper -- The things she made for dinner.
+gutenberg_issued: '2005-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+title: A Little Cook Book for a Little Girl
+url: http://www.gutenberg.org/ebooks/16514
